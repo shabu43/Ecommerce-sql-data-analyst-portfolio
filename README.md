@@ -40,6 +40,12 @@ Each folder contains **scenario-based prompts** and **SQL solutions**. Here's a 
 
 ### 01 - Traffic Analysis & Optimization
 
+- Identify top traffic sources and campaigns
+- Calculate conversion rates (CVR)
+- Analyze device-specific performance
+- Assess impact of bid changes
+- Track traffic segment trends
+
 ### 02 - Website Measurement & Testing
 
 ### 03 - Channel Analysis & Optimization
