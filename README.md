@@ -24,6 +24,7 @@ ecommerce-sql-data-analyst-portfolio/
 ├── database/
 │   ├── create_mavenfuzzyfactory.sql
 │   └── preparing_workbench_vApril2022.sql
+│
 ├── assignment_01_gsearch_conversion_rate.md
 │   ├── solution_01_gsearch_conversion_rate.sql
 │   ├── assignment_02_top_traffic_sources.md
