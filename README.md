@@ -24,6 +24,16 @@ ecommerce-sql-data-analyst-portfolio/
 ├── database/
 │   ├── create_mavenfuzzyfactory.sql
 │   └── preparing_workbench_vApril2022.sql
+├── assignment_01_gsearch_conversion_rate.md
+│   ├── solution_01_gsearch_conversion_rate.sql
+│   ├── assignment_02_top_traffic_sources.md
+│   ├── solution_02_top_traffic_sources.sql
+│   ├── assignment_03_device_conversion_rates.md
+│   ├── solution_03_device_conversion_rates.sql
+│   ├── assignment_04_trended_gsearch_volume.md
+│   ├── solution_04_trended_gsearch_volume.sql
+│   ├── assignment_05_device_trends.md
+│   └── solution_05_device_trends.sql
 │
 ├── 01_traffic_analysis_optimization/
 ├── 02_website_measurement_testing/
