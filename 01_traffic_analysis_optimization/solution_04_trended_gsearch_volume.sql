@@ -7,7 +7,8 @@ SELECT
 FROM 
     website_sessions ws
 WHERE 
-    ws.utm_source = 'gsearch'
+    ws.created_at < 'on 2012-05-10'
+    AND ws.utm_source = 'gsearch'
     AND ws.utm_campaign = 'nonbrand'
 GROUP BY 
     YEAR(ws.created_at), WEEK(ws.created_at);
