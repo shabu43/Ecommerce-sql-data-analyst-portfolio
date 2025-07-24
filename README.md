@@ -65,9 +65,28 @@ Each folder contains **scenario-based prompts** and **SQL solutions**. Here's a 
 
 ### 02 - Website Measurement & Testing
 
+* Find top entry pages
+* Analyze bounce rates by landing page
+* Conduct A/B testing for landing page performance
+* Analyze landing page trends
+
 ### 03 - Channel Analysis & Optimization
 
+* Analyze channel portfolios
+* Compare channel characteristics
+* Optimize bids across channels
+* Analyze channel portfolio trends
+* Analyze direct, organic, and paid brand traffic
+
 ### 04 - Product-Level Analysis
+
+* Conduct product-level sales analysis
+* Evaluate product launch impacts
+* Trace product-level website pathing
+* Build product-level conversion funnels
+* Perform cross-sell analysis
+* Evaluate opportunities for product portfolio expansion
+* Analyze product refund rates
 
 ### 05 - User-Level Analysis
 
