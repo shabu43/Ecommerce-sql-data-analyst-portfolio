@@ -44,8 +44,35 @@ ecommerce-sql-data-analyst-portfolio/
 │   ├── solution_02_bounce_rate_by_landing_page.sql
 │   ├── assignment_03_ab_test_landing_page.md
 │   ├── solution_03_ab_test_landing_page.sql
+|
 ├── 03_channel_analysis_optimization/
+│   ├── assignment_01_analyzing_channel_portfolios.md
+│   ├── solution_01_analyzing_channel_portfolios.sql
+│   ├── assignment_02_comparing_channel_characteristics.md
+│   ├── solution_02_comparing_channel_characteristics.sql
+│   ├── assignment_03_cross_channel_bid_optimization.md
+│   ├── solution_03_cross_channel_bid_optimization.sql
+│   ├── assignment_04_analyzing_channel_portfolio_trends.md
+│   ├── solution_04_analyzing_channel_portfolio_trends.sql
+│   ├── assignment_05_analyzing_direct_traffic.md
+│   └── solution_05_analyzing_direct_traffic.sql
+│
 ├── 04_product_level_analysis/
+│   ├── assignment_01_product_level_sales_analysis.md
+│   ├── solution_01_product_level_sales_analysis.sql
+│   ├── assignment_02_analyzing_product_launches.md
+│   ├── solution_02_analyzing_product_launches.sql
+│   ├── assignment_03_product_level_website_pathing.md
+│   ├── solution_03_product_level_website_pathing.sql
+│   ├── assignment_04_product_level_conversion_funnels.md
+│   ├── solution_04_product_level_conversion_funnels.sql
+│   ├── assignment_05_cross_sell_analysis.md
+│   ├── solution_05_cross_sell_analysis.sql
+│   ├── assignment_06_product_portfolio_expansion.md
+│   ├── solution_06_product_portfolio_expansion.sql
+│   ├── assignment_07_analyzing_product_refund_rates.md
+│   └── solution_07_analyzing_product_refund_rates.sql
+│
 ├── 05_user_level_analysis/
 ```
 
